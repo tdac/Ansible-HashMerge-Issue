@@ -1,0 +1,3 @@
+haproxy_frontend:
+  - name: http
+    description: Frontend for all HTTP traffic

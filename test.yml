@@ -1,0 +1,6 @@
+---
+- hosts: lb
+  connection: local
+
+  tasks:
+    - local_action: debug msg="{{ haproxy_frontend }}"

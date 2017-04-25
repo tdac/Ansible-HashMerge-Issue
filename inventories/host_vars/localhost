@@ -1,0 +1,3 @@
+haproxy_frontend:
+  - name: https
+    description: Frontend for all HTTPS traffic
