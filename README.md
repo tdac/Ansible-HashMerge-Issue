@@ -44,8 +44,8 @@ ok: [localhost -> localhost] => {
 
 ## Test version
 
-# ansible --version
 ```
+# ansible --version
 ansible 2.3.0.0
   config file = ansible.cfg
   configured module search path = Default w/o overrides
